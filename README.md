@@ -37,8 +37,8 @@ A sleek and interactive calculator built with HTML, CSS, and JavaScript — now 
 
 1. Clone the repository:
    ```bash
-   ```git clone https://github.com/sourav6102003/Calculator.git```
-   ``` cd calculator```
-   ```start index.html```   # Windows
-   ```open index.html```    # macOS
-   ```xdg-open index.html``` # Linux
+   `git clone https://github.com/sourav6102003/Calculator.git`
+   ` cd calculator`
+   `start index.html`   # Windows
+   `open index.html`    # macOS
+   `xdg-open index.html` # Linux
