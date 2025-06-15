@@ -36,7 +36,7 @@ A sleek and interactive calculator built with HTML, CSS, and JavaScript — now 
 ## 🧰 How to Run Locally
 
 1. Clone the repository:
-   ```bash
+
    `git clone https://github.com/sourav6102003/Calculator.git`
    ` cd calculator`
    `start index.html`   # Windows
