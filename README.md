@@ -36,15 +36,14 @@ A sleek and interactive calculator built with HTML, CSS, and JavaScript — now 
 ## 🧰 How to Run Locally
 
 1. Clone the repository:
-      ```base
+
    `git clone https://github.com/sourav6102003/Calculator.git` <br/>
-     ```base
-   ` cd calculator`
-   # Windows
-    ```base
-   `start index.html`   # Windows 
-   # macOS 
-    ```base
-   `open index.html`    # macOS 
-   ```base
-   `xdg-open index.html` # Linux  <br/>
+   ` cd calculator`<br/>
+   # Windows <br/>
+
+   `start index.html`  <br/>
+   # macOS <br/>
+    
+   `open index.html`<br/>
+    # Linux  <br/>
+   `xdg-open index.html` <br/>
